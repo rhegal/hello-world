@@ -1,2 +1,5 @@
 # hello-world
-A new repository to learning
+
+Hi Humans!
+
+Hubot here, I like C# and SQL Databases.
